@@ -55,5 +55,5 @@ const wantedAnimalList = pets.filter((pet) => {
 
 console.log(`${wantedAnimalList.length} ширхэг амьтан байна`);
 wantedAnimalList.forEach((animal) => {
-  console.log(`${animal.name}, ${animal.age} nastaiaagiaat`);
+  console.log(`${animal.name}, ${animal.age} nastai`);
 });
